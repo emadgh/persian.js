@@ -6,15 +6,6 @@ A simple JavaScript library for Persian language localization.
 Simply include `persian.js` in your HTML page and use the functions.
 If your in production environment, use `persian.min.js` instead.
 
-### In Node.js
-```bash
-npm install persianjs
-```
-### In Bower
-```bash
-bower install persianjs
-```
-
 ## Functions
 
 ### 1) Convert to Persian characters
